@@ -1,0 +1,5 @@
+Subject: Temperature Alert
+From: huzaifadaniyal5@gmail.com
+To: hamzanaveed3210@gmail.com
+
+ALERT: Weather is too cold, Take necessary precautions
